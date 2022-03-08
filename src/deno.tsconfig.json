@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+      "strict": false,
+      "lib": ["dom", "dom.iterable", "dom.asynciterable", "Deno.ns"]
+    }
+  }

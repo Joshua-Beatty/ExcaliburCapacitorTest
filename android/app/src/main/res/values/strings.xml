@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SpeedSquared</string>
+    <string name="title_activity_main">SpeedSquared</string>
+    <string name="package_name">me.joshbeatty.speedsquared</string>
+    <string name="custom_url_scheme">me.joshbeatty.speedsquared</string>
+</resources>
