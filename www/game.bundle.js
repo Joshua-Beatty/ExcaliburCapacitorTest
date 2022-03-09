@@ -22346,7 +22346,7 @@ const game = new __webpack_exports__Engine({
     width: 1280,
     height: 720,
     canvasElementId: "game",
-    displayMode: __webpack_exports__DisplayMode.FitContent,
+    displayMode: __webpack_exports__DisplayMode.FitScreen,
     backgroundColor: __webpack_exports__Color.Blue
 });
 const paddle = new __webpack_exports__Actor({

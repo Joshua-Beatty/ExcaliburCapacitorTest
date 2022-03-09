@@ -4,7 +4,7 @@ const game = new Engine({
     width: 1280,
     height: 720,
     canvasElementId: "game",
-    displayMode: DisplayMode.FitContent,
+    displayMode: DisplayMode.FitScreen,
     backgroundColor: Color.Blue,
   });
   
